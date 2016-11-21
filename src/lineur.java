@@ -33,7 +33,7 @@ public class lineur {
                 if (Double.isFinite(d)) {
                     return d;
                 }
-                System.out.println("Нудопустимое значение");
+                System.out.println("Недопустимое значение");
             } else {
                 System.out.println("Вы ввели не число");
                 scanner.next();
