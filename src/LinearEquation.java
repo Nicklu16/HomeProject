@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lineur {
+public class LinearEquation {
 
     public static void main(String[] args) {
         System.out.println("Решаем уравнение типа ax + b = 0");
