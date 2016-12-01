@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KvUr2 {
+public class KvUr {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double a = scanner.nextDouble();
